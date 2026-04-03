@@ -1,0 +1,6 @@
+cliente,valor,status
+Ana,1000,ok
+João,1500,ok
+Maria,,erro
+Carlos,2000,ok
+Pedro,1800,erro
